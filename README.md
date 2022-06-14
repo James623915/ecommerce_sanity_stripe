@@ -1,4 +1,4 @@
-#Ecommerce app for online restaurant
+# Ecommerce app for online restaurant
 Please check this link https://ecommerce-sanity-stripe-sandy.vercel.app/ and try to make an order with it. It is really cool. 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
